@@ -15,6 +15,11 @@ We are Applied Exploration, a **Machine Learning Research Studio** specialized i
 
 Based in Berlin, we currently collaborate with Machine Learning Practicioners and Researcherss across Europe and the Americas.
 
+Some of the topics we are interested in:
+- Graph Neural Networks
+- Machine Learning applied to Code Intelligence
+- Quantative pipelines by combining multiple models
+- Neuro-symbolic approaches, eg. symbolic regression.
 
 # Become part of the community
 
