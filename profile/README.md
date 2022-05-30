@@ -21,6 +21,8 @@ Some of the topics we are interested in:
 - Quantative pipelines by combining multiple models
 - Neuro-symbolic approaches, eg. symbolic regression.
 
+![Showcase of projects](assets/showcase.png)
+
 # Become part of the community
 
 Since 2021 we have been developing a community of likeminded individuals, who we meet weekly for:
@@ -37,9 +39,21 @@ If you would like to apply to the community then DM us on @hellosemy or @itching
 Become part of the journey in experimenting with a new way of organising technological spin-offs.
 We write deep insights into what went well and wrong in our projects, and show the state of affairs in those segments.
 
-Subscribe here:
-https://appliedexploration.substack.com/
+<br>
+
+### Newsletter
+
+Subscribe here:<br> [<img width=100px src="assets/substack.png">](https://appliedexploration.substack.com/) - https://appliedexploration.substack.com/
+
+<br>
 
 
-# Check our blog
+### Twitter:
+
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/hellosemy.svg?style=social&label=Follow%20%40hellosemy)](https://twitter.com/hellosemy) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/itchingpixels.svg?style=social&label=Follow%20%40itchingpixels)](https://twitter.com/itchingpixels)
+
+<br>
+
+### Check our blog
 https://www.appliedexploration.com/
