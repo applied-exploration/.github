@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -36,3 +34,7 @@ We write deep insights into what went well and wrong in our projects, and show t
 
 Subscribe here:
 https://appliedexploration.substack.com/
+
+
+# Check our blog
+https://www.appliedexploration.com/
