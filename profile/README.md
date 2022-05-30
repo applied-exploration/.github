@@ -21,7 +21,7 @@ Some of the topics we are interested in:
 - Quantative pipelines by combining multiple models
 - Neuro-symbolic approaches, eg. symbolic regression.
 
-![Showcase of projects](assets/showcase.png)
+![Showcase of projects](profile/assets/showcase.png)
 
 # Become part of the community
 
@@ -43,7 +43,7 @@ We write deep insights into what went well and wrong in our projects, and show t
 
 ### Newsletter
 
-Subscribe here:<br> [<img width=100px src="assets/substack.png">](https://appliedexploration.substack.com/) - https://appliedexploration.substack.com/
+Subscribe here:<br> [<img width=100px src="profile/assets/substack.png">](https://appliedexploration.substack.com/) - https://appliedexploration.substack.com/
 
 <br>
 
