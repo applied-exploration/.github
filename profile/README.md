@@ -9,19 +9,16 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Hi! 👋
+# Welcome 👋
+We are an independent Machine Learning Research and Development Studio based in Berlin.
 
-We are Applied Exploration, a **Machine Learning Research Studio** specialized in translating State-of-the-Art algorithms into **practical use-cases**.
+We aspire to:
+* Work with experts to develop useful tools and solutions to real-world problems
+* Create interpretable ML to expand human knowledge
+* Explore if ML practices hold up to scrutiny and revitalize forgotten ideas in AI
+* Make state of the art algorithms more convenient to access
 
-Based in Berlin, we currently collaborate with Machine Learning Practicioners and Researcherss across Europe and the Americas.
-
-Some of the topics we are interested in:
-- Graph Neural Networks
-- Machine Learning applied to Code Intelligence
-- Quantative pipelines by combining multiple models
-- Neuro-symbolic approaches, eg. symbolic regression.
-
-![Showcase of projects](profile/assets/showcase.png)
+<!-- ![Showcase of projects](profile/assets/showcase.png) -->
 
 # Become part of the community
 
@@ -41,19 +38,8 @@ We write deep insights into what went well and wrong in our projects, and show t
 
 <br>
 
-### Newsletter
-
-Subscribe here:<br> [<img width=100px src="profile/assets/substack.png">](https://appliedexploration.substack.com/) - https://appliedexploration.substack.com/
-
-<br>
-
-
-### Twitter:
-
-
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/hellosemy.svg?style=social&label=Follow%20%40hellosemy)](https://twitter.com/hellosemy) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/itchingpixels.svg?style=social&label=Follow%20%40itchingpixels)](https://twitter.com/itchingpixels)
-
-<br>
+### Check our website
+https://www.dreamfaster.ai/
 
 ### Check our blog
 https://www.appliedexploration.com/
