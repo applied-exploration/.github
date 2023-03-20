@@ -8,14 +8,5 @@ Check out our website:
 https://www.dreamfaster.ai/
 
 <br>
-
-# Subscribe to our progress
-
-Become part of the journey in experimenting with a new way of organising technological spin-offs.
-We write deep insights into what went well and wrong in our projects, and show the state of affairs in those segments.
-
-<br>
-
-
 # Check our blog
 https://www.appliedexploration.com/
