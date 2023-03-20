@@ -8,5 +8,6 @@ Check out our website:
 https://www.dreamfaster.ai/
 
 <br>
+
 # Check our blog
 https://www.appliedexploration.com/
