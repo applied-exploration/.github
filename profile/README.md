@@ -1,13 +1,8 @@
 
 # Welcome 👋
-We are an independent Machine Learning Research and Development Studio based in Berlin.
+We are an Machine Learning Studio, specialized in Forecasting/Nowcasting, based in Berlin.
 
-Our core focus is building scientifically rigorous tooling to improve Forecasting.
+We want to **bring much-needed transparency, speed and rigour** to the process of building Time Series ML models
 
 Check out our website:
 https://www.dreamfaster.ai/
-
-<br>
-
-# Check our blog
-https://www.appliedexploration.com/
